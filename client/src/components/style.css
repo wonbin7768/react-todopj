@@ -1,0 +1,23 @@
+
+.container{
+    background-color: rgb(97, 96, 101);
+    border-radius: 5px;
+    margin:15px;
+}
+.col-sm{
+    background-color: rgb(97, 96, 101);
+    margin-top:10px;
+    padding-top: 15px;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+.btn_li{
+    float: right;
+    margin-left: 10px;
+}
+.btn_delete{
+    float: right;
+    width: 100%;
+}
