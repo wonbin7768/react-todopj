@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todopj-frontend/static/css/main.ee7f387a.css",
+    "main.js": "/react-todopj-frontend/static/js/main.0663ece1.js",
+    "index.html": "/react-todopj-frontend/index.html",
+    "main.ee7f387a.css.map": "/react-todopj-frontend/static/css/main.ee7f387a.css.map",
+    "main.0663ece1.js.map": "/react-todopj-frontend/static/js/main.0663ece1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7f387a.css",
+    "static/js/main.0663ece1.js"
+  ]
+}
